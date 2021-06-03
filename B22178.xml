@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance of the Lords and Commons assembled in Parliament with the names of the knights and gentlemen entrusted in every county to bring up a speedy account of the weekely assessment and to returne the names of all such persons as refuse to pay : also the instructions agreed upon by both Houses for the said gentlemen appointed for this service.</title>
+            <title>Laws, etc.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22178</idno><idno type="EEBO-CITATION">12201170</idno>
+  <idno type="VID">197225</idno>
+  <idno type="EEBO-PROQUEST">2240942786</idno>
+  
+            <idno type="STC">Wing E2112</idno>
+            <idno type="OCLC">12201170</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22178)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197225)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 244:E100, no 24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance of the Lords and Commons assembled in Parliament with the names of the knights and gentlemen entrusted in every county to bring up a speedy account of the weekely assessment and to returne the names of all such persons as refuse to pay : also the instructions agreed upon by both Houses for the said gentlemen appointed for this service.</title>
+                  <title>Laws, etc.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Wright ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>May 4, 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Taxation --  Law and legislation --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197225:1"/>
+            <pb facs="tcp:197225:1"/>
+            <p>AN ORDINANCE OF THE LORDS and COMMONS Assembled in Parliament.</p>
+            <p>With the names of the Knights and Gentlemen entrusted in every County to bring up a speedy account of the Weekely Assessement, and to returne the names of all such persons as refuse to pay.</p>
+            <p>Also the Instructions agreed upon by both Houses, for the said Gentlemen appointed for this service.</p>
+            <p>Die Mercurii, 3 Maii. 1643.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>ORdered by the Lords and Commons Assembled in Par<g ref="char:EOLhyphen"/>liament, that this Ordinance and Instructions shall be forthwith printed and published.</p>
+                        <closer>
+                           <signed>Io. Browne Cler. Parliamentorum.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Iohn Wright</hi> in the Old-baily, <hi>May</hi> 4. 1643.</p>
+            <pb facs="tcp:197225:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="Parliamentary_ordinance">
+            <pb facs="tcp:197225:2"/>
+            <opener>
+               <dateline>
+                  <date>Die Mercurii, 3 Maii. 1643.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HE Lords and Commons in Parliament Assembled, finding that the Moneys rated upon the Counties by the Ordinance for the weekly Assessement are not returned up with such expedition as the emergent and present necessities doe require, Have thought fit, and doe order and ordaine that two or more Persons of trust shall be, and are hereby appointed for each County to take especiall care herein, and to put in execu<g ref="char:EOLhyphen"/>tion with all industry and fidelity within their respective Counties: for which they are appointed these instructions hereunto annex<g ref="char:EOLhyphen"/>ed: And shall have such Allowance towards their Charges and Expences in this Service as upon their respective Accounts shall be thought fit by the Lords and Commons, <hi>viz.</hi> For the County of Middlesex Sir <hi>John</hi>
+               <pb facs="tcp:197225:3"/>
+               <hi>Francklyn</hi> Knight, and Sir <hi>Edward Barkeham</hi> Knight and Baronet: for the County of Kent Sir <hi>Henry Heyman,</hi> Knight and Baronet, and <hi>Thomas Blunt</hi> Esq. for the City &amp; County of Canterbury Sir <hi>Edward Masters,</hi> and Sir <hi>William Man,</hi> Knights: for the County of E<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sex, Sir <hi>Richard Everard</hi> Baronet, and Sir <hi>Thomas Hone<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wood</hi> Knight: for the County of Surrey, Sir <hi>John Dingley</hi> Knight, &amp; <hi>John Goodwin,</hi> Esq. for the Borough of South<g ref="char:EOLhyphen"/>warke, with the Parishes of Rotherhith, Newington-buts, &amp; Lambeth, <hi>John White</hi> Esq. and <hi>Cornelius Cooke:</hi> for the County of Sussex, <hi>Herbert Morley,</hi> &amp; <hi>John Baker,</hi> Esq<seg rend="sup">irs</seg>. for the county of Hertford, Sir <hi>Tho. Dacres</hi> Knight, &amp; <hi>John Heydon,</hi> Esq. for the county of Cambridge, <hi>Tho. Symons,</hi> Esqu. &amp; <hi>Thomas Thompson,</hi> Gent. for the Isle of Ely, Sir <hi>Myles Sands,</hi> Knight, &amp; <hi>William Fisher,</hi> Esq. for the county of Suffolke, Sir <hi>Wil. Spring</hi> Barro. &amp; <hi>Wil. Hevenningham,</hi> Esqu. for the county of Norfolke, and the city and county of Norwich, Sir <hi>John Hubbert</hi> Barronet, <hi>Sa<g ref="char:EOLhyphen"/>muel Smith,</hi> &amp; <hi>Thomas Toll,</hi> Esquires: for the county of Huntington, <hi>Onslow Winch,</hi> &amp; <hi>Tir<g ref="char:EOLhyphen"/>rill Josselin,</hi> Esquires: for the county of Bur<g ref="char:EOLhyphen"/>kingham, <hi>Henry Bulstrode,</hi> &amp; <hi>Thomas Tirrill,</hi>
+               <pb facs="tcp:197225:3"/> Esquires: for the county of Bedford, Sir <hi>John Burgon</hi> Barronet, &amp; <hi>Samuel Brown,</hi> Esq. for the county of Southampton, <hi>Richard Whitehead,</hi> &amp; <hi>Richard Norton,</hi> Esquires: for the Isle of Wight, Sir <hi>Henry Worsesly,</hi> Bar. &amp; <hi>John Buckley</hi> Esq. for the county of Nor<g ref="char:EOLhyphen"/>thampton, Sir <hi>Richard Samuel</hi> Knight, and <hi>John Crew</hi> Esq. for the county of Berks, Sir <hi>Francis Knoles</hi> the younger, &amp; <hi>Tanfield Va<g ref="char:EOLhyphen"/>chell,</hi> Esq. for the county of Wilts, Sir <hi>Edw. Hungerford</hi> Knight, &amp; <hi>Edward Goddard</hi> of Vpham, Esq. for the county of Somerset, Sir <hi>John Horner</hi> Knight, &amp; <hi>Alexander Pop<g ref="char:EOLhyphen"/>ham,</hi> Esq. for the county of Dorset, Sir <hi>Wal<g ref="char:EOLhyphen"/>ter Earle</hi> Knight, &amp; <hi>John Fitz-James,</hi> of Lew<g ref="char:EOLhyphen"/>sam▪ Esq. for the county of Warwick, <hi>God<g ref="char:EOLhyphen"/>frey Boswell,</hi> &amp; <hi>George Abbots,</hi> Esquires: for the county of Glocester, and the county of the city of Glocester, Sir <hi>Robert Cooke</hi> Knight, <hi>Edward Stevens,</hi> &amp; <hi>Thomas Purry,</hi> Esquires: for the city of Westminster, Sir <hi>Robert Pye</hi> Knight, and <hi>John Glynne,</hi> Esq.</p>
+         </div>
+         <div type="list_of_instructions">
+            <pb facs="tcp:197225:4"/>
+            <opener>
+               <dateline>
+                  <date>Die Mercurii. 3. Maii 1643.</date>
+               </dateline>
+            </opener>
+            <argument>
+               <p>Instructions agreed upon by the Lords and Commons in Parliament assembled, for the Gentlemen that are appointed by the Ordinance hereunto annexed, to take care within their respective Counties of the speedy payment of the weekly Assessement, and other payments for the Armie.</p>
+            </argument>
+            <list>
+               <item>I. <seg rend="decorInit">Y</seg>Ou shall forthwith call all the Col<g ref="char:EOLhyphen"/>lectors within the severall Divisions before you, and strictly examine what Monies have been already col<g ref="char:EOLhyphen"/>lected by vertue of the Ordinance for the week<g ref="char:EOLhyphen"/>ly Assessement, and cause all such Monies to be with all possible speed safely sent up to the T<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>a<g ref="char:EOLhyphen"/>surer of the Army, according to the said Ordi<g ref="char:EOLhyphen"/>nance.</item>
+               <item>II. Such Moneys as are due, or shall grow due, and not yet collected, you shall cause to be speedily leavied, and sent up, as aforesaid.</item>
+               <item>III. Where you shall finde the said Ordi<g ref="char:EOLhyphen"/>nance hath not been put in execution, you sha<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l informe your selves who be the Committees of that Division, and through whose default such
+<pb facs="tcp:197225:4"/> neglect hath hapned, and certifie their names to the Lords and Commons in Parliament.</item>
+               <item>IV. You shall cause such Committees as are next to the place where such negligence or de<g ref="char:EOLhyphen"/>fect shall be found, forthwith to put the said Ordinance in execution, and to make their As<g ref="char:EOLhyphen"/>sessements for the whole three moneths menti<g ref="char:EOLhyphen"/>oned in the said Ordinance, and to appoint Col<g ref="char:EOLhyphen"/>lectors with all speed to collect the same accor<g ref="char:EOLhyphen"/>ding to the said Ordinance.</item>
+               <item>V. You shall enquire whether the Assessors thorowout the said County have made their Assessements according to the said Ordinance; and such as you shall finde to have been negli<g ref="char:EOLhyphen"/>gent, or otherwise faulty therein, you shall cause them to be fined by the Committees, ac<g ref="char:EOLhyphen"/>cording to the power given by the said Ordi<g ref="char:EOLhyphen"/>nance, and their Fines to be collected and re<g ref="char:EOLhyphen"/>turned, together with the rest of the Money assessed.</item>
+               <item>VI. You shall likewise cause all Collectors, who have neglected their duties in collecting the said Assessements, to be fined according to the said Ordinance, and their Fines to be lea<g ref="char:EOLhyphen"/>vied and returned accordingly.</item>
+               <item>VII. You shall take care that a true and ex<g ref="char:EOLhyphen"/>act List be forthwith made in Parchment faire
+<pb facs="tcp:197225:5"/> written, of the names and sirnames, and places of abode of all such persons within the said County, as are assessed by vertue of the said Or<g ref="char:EOLhyphen"/>dinance, and refuse to pay the Moneyes so as<g ref="char:EOLhyphen"/>sessed upon them, and whose Moneys you can<g ref="char:EOLhyphen"/>not leavie by distresse, and to returne a true Copie of the said List under the hands of the said Committees, or under the hands of two of them at the least, that such further course be taken with such persons so listed as shall be thought fit.</item>
+               <item>VIII. You shall take speciall care that all Moneys hereafter to be leavied by any other Ordinance of Parliament for the maintaining of the said Armie, be duly and speedily leavi<g ref="char:EOLhyphen"/>ed accordingly.</item>
+               <item>IX. You shall once every weeke, and oft<g ref="char:EOLhyphen"/>ner if it may be, give an account in writing of your proceedings herein, and of all other things you shall conceive advantagious for this Ser<g ref="char:EOLhyphen"/>vice, to the Speaker of the House of Com<g ref="char:EOLhyphen"/>mons.</item>
+            </list>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
